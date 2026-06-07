@@ -2,7 +2,7 @@
 
 A reproduction and extension of **"BATT: Backdoor Attack with Transformation-Based Triggers"**, evaluating deep learning model vulnerability to geometric backdoor attacks on CIFAR-10. Implements and benchmarks three attack strategies — BATT Rotation, BATT Translation, and BadNets baseline — against a clean ResNet-18 classifier.
 
-> 📄 Full research paper included — see [`paper.pdf`](./paper.pdf)
+> 📄 Full research paper available on ResearchGate — Reproducing and Extending BATT: Backdoor Attack with Transformation-Based Triggers
 
 ---
 
